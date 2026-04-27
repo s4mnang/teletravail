@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip show *)",
+      "Bash(pip install *)",
+      "Bash(pyinstaller --onefile --noconsole --name mouse_looper mouse_looper.py)",
+      "PowerShell(pip show pyinstaller 2>&1)",
+      "PowerShell(pip install pyinstaller --quiet 2>&1)"
+    ]
+  }
+}

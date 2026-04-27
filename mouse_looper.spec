@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['mouse_looper.py'],
+    ['C:\\projet_perso\\teletravail\\mouse_looper.py'],
     pathex=[],
     binaries=[],
     datas=[],
